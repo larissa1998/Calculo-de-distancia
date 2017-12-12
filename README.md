@@ -1,5 +1,6 @@
 # Distance-calculation
 Programming Work 1 -  The program has two types of Calculation:  
+
 Individual calculation: receives two ZIP codes and calculates the distance in kilometers. 
 
 
